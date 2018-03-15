@@ -1,0 +1,41 @@
+/*Common elements across all pages*/
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #d2d6d9;
+}
+
+h1{
+	font-size: 20px;
+	line-height: 40px;
+	color: #cec1d6;
+} 
+
+h2{
+	font-size: 14px;
+	line-height: 40px;
+	color: #ced1d6;
+}
+
+hr{
+	border-top: 3px double #ced1d6;
+	border-bottom: 3px solid #ced1d6;
+	}
+
+a{
+	font-family: serif;
+	text-decoration: underline;
+	font-wieght: none;
+}
+
+a:link{
+	color: #ced1d6;
+}
+
+a:hover{
+	color: #fd5845;
+}
+
+a:active{
+	color: #fd5845;
+}
+
